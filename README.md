@@ -3,6 +3,15 @@ collection of databases for California sorted by relevant themes
 
 ## General
 
+#### Transportation:
+http://www.dot.ca.gov/hq/tsip/gis/datalibrary/
+
+#### Geographic Boundaries:
+https://data.ca.gov/dataset/ca-geographic-boundaries
+
+#### Broadband Availability:
+http://www.broadbandmap.ca.gov/
+
 ## Cities
 ### Los Angeles
 #### Crime:
