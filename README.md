@@ -6,8 +6,13 @@ collection of databases for California sorted by relevant themes
 #### Transportation:
 http://www.dot.ca.gov/hq/tsip/gis/datalibrary/
 
-#### Geographic Boundaries:
+#### Geographic:
+
+##### Boundaries
 https://data.ca.gov/dataset/ca-geographic-boundaries
+
+##### DEM (Digital Elevation Model)
+http://www.brenorbrophy.com/California-DEM.htm
 
 #### Broadband Availability:
 http://www.broadbandmap.ca.gov/
